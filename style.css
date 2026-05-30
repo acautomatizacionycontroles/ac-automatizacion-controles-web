@@ -24,29 +24,35 @@ body{
 
 /* HEADER */
 
-header{
 header .container{
+    position: relative;
     display:flex;
     justify-content:center;
     align-items:center;
-    padding:10px 0;
+    padding:10px 20px;
 }
 
 .logo{
     display:flex;
     justify-content:center;
     align-items:center;
-    width:100%;
 }
 
 .logo img{
-    height:180px;
+    height:140px;
     width:auto;
-    display:block;
+}
+
+.menu-btn{
+    position:absolute;
+    left:15px;
+    color:white;
+    font-size:32px;
+    cursor:pointer;
 }
 
 nav{
-    display:flex;
+    display:none;
     gap:25px;
 }
 
