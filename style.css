@@ -25,13 +25,12 @@ body{
 /* HEADER */
 
 header{
-    position:fixed;
-    top:0;
-    width:100%;
-    background:rgba(11,15,20,.95);
-    backdrop-filter:blur(10px);
-    z-index:1000;
-    border-bottom:1px solid #1f2937;
+    background: rgba(0,0,0,.85);
+    padding: 15px 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
 }
 
 header .container{
