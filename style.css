@@ -25,11 +25,11 @@ body{
 /* HEADER */
 
 header .container{
-    position: relative;
+    position:relative;
     display:flex;
     justify-content:center;
     align-items:center;
-    padding:10px 20px;
+    padding:20px 20px;
 }
 
 .logo{
@@ -39,8 +39,9 @@ header .container{
 }
 
 .logo img{
-    height:140px;
+    height:150px;
     width:auto;
+    display:block;
 }
 
 .menu-btn{
@@ -234,6 +235,7 @@ footer{
     }
 
     .logo img{
-        height:50px;
+    height:140px;
+    width:auto;
     }
 }
