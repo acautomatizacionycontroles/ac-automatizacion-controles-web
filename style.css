@@ -40,9 +40,9 @@ header .container{
     padding:15px 0;
 }
 
-.logo{
-    display: flex;
-    align-items: center;
+.logo img{
+    height: 120px;
+    width: auto;
 }
 
 nav{
