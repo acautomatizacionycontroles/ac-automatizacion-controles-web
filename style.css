@@ -114,6 +114,7 @@ nav a:hover{
     border-radius:8px;
     font-weight:600;
     transition:.3s;
+    margin-bottom:20px;
 }
 
 .btn-primary:hover{
