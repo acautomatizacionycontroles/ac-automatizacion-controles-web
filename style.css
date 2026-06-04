@@ -107,7 +107,7 @@ nav a:hover{
 }
 
 .btn-primary{
-    background: #008000;
+    background: #12343f;
     color:white;
     text-decoration:none;
     padding:14px 28px;
@@ -208,7 +208,7 @@ nav a:hover{
 .contact-info p{
     text-align:center;
     font-size:1.1rem;
-     margin-bottom:30px;
+     margin-bottom:5px;
 }
 
 /* FOOTER */
