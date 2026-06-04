@@ -107,7 +107,7 @@ nav a:hover{
 }
 
 .btn-primary{
-    background: #12343f;
+    background: #25d366;
     color:white;
     text-decoration:none;
     padding:14px 28px;
@@ -117,7 +117,7 @@ nav a:hover{
 }
 
 .btn-primary:hover{
-    background:#1d4ed8;
+    background:#12343f;
 }
 
 .btn-secondary{
